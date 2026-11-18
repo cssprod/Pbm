@@ -15,7 +15,7 @@ These change the goal, so they are Randy's. Everything else in the plan can star
 
 | # | Decision | Options | Recommendation |
 |---|----------|---------|----------------|
-| D1 | How the Hwarang idea fits the existing show | **Wrap:** keep the 24 Doors world and make the kids a modern Hwarang club. **Replace:** rebuild the show around a new Hwarang world. | **Wrap.** Keeps the pattern-a-door engine (which already maps to all 24 legends) and adds the Hwarang as the heart of the team. Less rework, stronger premise. |
+| D1 | How the Hwarang idea fits the existing show | **Wrap:** keep the 24 Doors world and make the kids a modern Hwarang club. **Replace:** rebuild the show around a new Hwarang world. | **Decided 2026-11-18 by Randy: Wrap.** Keeps the pattern-a-door engine (which already maps to all 24 legends) and adds the Hwarang as the heart of the team. Less rework, stronger premise. |
 | D2 | Show title | Keep *Tiger Belt: The 24 Doors*; or a Hwarang-led title such as *Flower Knights*, *The Flower Knights of the 24 Doors*, *Hwarang Rising* | Shortlist 3, run trademark and search checks (Phase 0), then concept-test with parents (Phase 2). Do not lock before checks. |
 | D3 | Budgets | Per main episode, per short, per month (fields in `brand/brand.md` are still blank) | Set a pilot-only budget first; set season budgets after the pilot's real cost is known. |
 | D4 | Instructor reviewer | A named ITF instructor (rank, school) who signs off technique and safety lessons | Required before any safety lesson is published. |
@@ -84,7 +84,7 @@ Tie to the Student Oath (`tenets-and-oath.md`): "I shall never misuse Taekwon-Do
 
 All lore comes from `references/itf/`. Anything not in the library is marked `[VERIFY]` and kept off screen until checked.
 
-### 3.1 Where the Hwarang fit (recommended "wrap" option)
+### 3.1 Where the Hwarang fit ("wrap", decided by Randy on 2026-11-18)
 
 - **The Dojang (real world)** stays: a warm neighbourhood Taekwon-Do school.
 - **The Great Clock and its 24 Doors** stay: each pattern opens its legend.
