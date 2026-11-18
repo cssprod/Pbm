@@ -1,0 +1,9 @@
+.env
+*.env
+episodes/*/assets/
+episodes/*/audio/
+episodes/*/edit/
+episodes/*/deliverables/
+finance/receipts/
+analytics/raw/
+.DS_Store
